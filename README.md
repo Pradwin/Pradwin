@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning REACT<br>🎯 Goals: To master in my field of knowledge<br>🎲 Fun fact: I watch anime and play online games</p>
+<p align="left">📚 I'm currently learning REACT<br>🎯 Goals: To master in my field of knowledge<br></p>
 
 ###
 

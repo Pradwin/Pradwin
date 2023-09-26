@@ -44,8 +44,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pradwin /count.svg?"  />
-</div>
-
 ###

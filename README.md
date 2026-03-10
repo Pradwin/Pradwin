@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pradwin Sherigar and I'm a Software Developer, from Udupi, Karnataka</p>
+<p align="left">My name is Pradwin Sherigar and I'm a Network Engineer in cognizant working for Cisco(NOC)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently looking for a job <br>🎯 Goals: To master in my field of knowledge</p>
+<p align="left">📚 I'm currently upskilling myself<br>🎯 Goals: To master in my field of knowledge</p>
 
 ###
 
